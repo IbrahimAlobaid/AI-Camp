@@ -1,5 +1,5 @@
 
-#  AI Camp — University of Aleppo
+#  AI Camp  University of Aleppo
 
 Welcome to the **Artificial Intelligence Camp** at the **University of Aleppo**.
 
