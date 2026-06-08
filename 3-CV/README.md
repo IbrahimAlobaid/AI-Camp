@@ -13,6 +13,13 @@ Main topics covered:
 - Feature extraction with corners, pyramids, SIFT, ORB, FAST, and HOG
 - Convolutional Neural Networks with PyTorch
 - Introductory object detection concepts, including YOLO and RCNN
+- A practical object tracking project using YOLO-based detection and tracking
+
+## Covered Project
+
+During this session, the following project was covered as a practical application of computer vision concepts:
+
+- [Smart Tracker](https://github.com/IbrahimAlobid2/smart-tracker): a real-time object tracking system built with Streamlit, YOLO-based detection, multi-object tracking, speed estimation, line-crossing detection, and Arabic interface support.
 
 ## Repository Structure
 
@@ -84,4 +91,5 @@ Then open the notebooks in order, starting with `1-image_Pre-process.ipynb`.
 1. Start with image preprocessing to understand how images are represented and manipulated.
 2. Move to filters and edge detection to learn how visual structure is extracted.
 3. Study feature extraction methods used in traditional computer vision pipelines.
-4. Finish with CNNs and object detection concepts to connect classical methods with deep learning.
+4. Review the Smart Tracker project as an applied example of detection and tracking.
+5. Finish with CNNs and object detection concepts to connect classical methods with deep learning.
