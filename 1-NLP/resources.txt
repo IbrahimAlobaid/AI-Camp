@@ -1,0 +1,34 @@
+NLP Study Resources:
+
+1) Deep Learning Specialization — Sequence Models
+- DeepLearning.AI: https://www.deeplearning.ai/specializations/deep-learning/
+- Coursera: https://www.coursera.org/specializations/deep-learning
+- Youtube: https://youtu.be/S7oA5C43Rbc?si=PXE6cmo-lsip3V7H
+
+2) Build GPT from scratch (Andrej Karpathy)
+- YouTube: https://www.youtube.com/watch?v=kCc8FmEb1nY
+- Karpathy channel: https://www.youtube.com/@AndrejKarpathy/videos
+
+3) StatQuest — Attention / Transformers
+- Attention for Neural Networks, Clearly Explained!!!
+  https://www.youtube.com/watch?v=PSs6nxngL6k
+- Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!
+  https://www.youtube.com/watch?v=zxQyTK8quyY
+- Decoder-Only Transformers, ChatGPTs specific Transformer, Clearly Explained!!!
+  https://www.youtube.com/watch?v=bQ5BoolX9Ag
+
+4) 3Blue1Brown — Transformers / Attention / LLMs
+- Transformers, the tech behind LLMs | Deep Learning Chapter 5
+  https://www.3blue1brown.com/lessons/gpt/
+- Attention in transformers, step-by-step | Deep Learning Chapter 6
+  https://www.3blue1brown.com/lessons/attention/
+- YouTube channel: https://www.youtube.com/@3blue1brown
+
+5) Original papers
+- Attention Is All You Need
+  https://arxiv.org/abs/1706.03762
+- GPT-1 — Improving Language Understanding by Generative Pre-Training
+  https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
+- BERT — Pre-training of Deep Bidirectional Transformers for Language Understanding
+  https://arxiv.org/abs/1810.04805
+
