@@ -1,5 +1,6 @@
 NLP Study Resources:
 
+
 1) Deep Learning Specialization — Sequence Models
 - DeepLearning.AI: https://www.deeplearning.ai/specializations/deep-learning/
 - Coursera: https://www.coursera.org/specializations/deep-learning
