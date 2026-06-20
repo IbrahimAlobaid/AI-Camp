@@ -2,7 +2,7 @@
 
 The Artificial Intelligence Camp at the University of Aleppo is a practical 6-session program designed to help students build a clear foundation in AI through simple explanations, Jupyter notebooks, datasets, and hands-on projects.
 
-> Note: This repository currently includes the materials for the first 3 sessions only. Sessions 4, 5, and 6 will be added later.
+> Note: This repository currently includes the materials for the first 5 sessions. Session 6 will be added later.
 
 ## Sessions
 
@@ -11,8 +11,8 @@ The Artificial Intelligence Camp at the University of Aleppo is a practical 6-se
 | 1 | `1-ML/` | Machine Learning fundamentals, data cleaning, linear and logistic regression, Random Forest, XGBoost, and an employee attrition prediction project using FastAPI, Streamlit, and Docker. |
 | 2 | `2-DL/` | Introduction to Deep Learning, the relationship between AI, ML, and DL, building a neural network from scratch, backpropagation, and MNIST experiments using PyTorch and TensorFlow/Keras. |
 | 3 | `3-CV/` | Computer Vision basics, image preprocessing, filters and edge detection, feature extraction methods such as SIFT, ORB, and HOG, CNNs, and introductory YOLO and RCNN concepts. |
-| 4 | To be added later | In preparation. |
-| 5 | To be added later | In preparation. |
+| 4 | `4-NLP/` | Natural Language Processing from classical text preprocessing and tokenization to embeddings, sequence models, attention, Transformers, BERT, GPT, and a BERT-based Named Entity Recognition exercise. |
+| 5 | `5-LLM/` | Practical LLM systems covering APIs, prompt engineering, embeddings, vector databases, RAG, fine-tuning, LoRA/QLoRA, agents, memory, evaluation, safety, and application labs. |
 | 6 | To be added later | In preparation. |
 
 ## Repository Structure
@@ -22,6 +22,8 @@ AI-Camp/
 |-- 1-ML/      # Session 1: Machine Learning
 |-- 2-DL/      # Session 2: Deep Learning
 |-- 3-CV/      # Session 3: Computer Vision
+|-- 4-NLP/     # Session 4: Natural Language Processing
+|-- 5-LLM/     # Session 5: Large Language Models
 `-- README.md
 ```
 
