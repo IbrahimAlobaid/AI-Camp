@@ -1,0 +1,23 @@
+# Keep secrets and local Python environments out of version control.
+.env
+.venv/
+venv/
+
+# Ignore generated Python and tool caches.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Ignore generated frontend files and local browser configuration.
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# Ignore common editor and operating-system files.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

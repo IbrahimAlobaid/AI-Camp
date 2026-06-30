@@ -1,0 +1,1 @@
+"""Vision voice agent application."""

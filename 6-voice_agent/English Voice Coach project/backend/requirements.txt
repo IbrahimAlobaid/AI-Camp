@@ -1,0 +1,6 @@
+# Pipecat is pinned because its pipeline and runner APIs evolve quickly.
+# The extras provide OpenAI services, the local browser runner, WebRTC, and VAD.
+pipecat-ai[openai,runner,silero,webrtc]==1.4.0
+
+# config.py uses python-dotenv to load values from the local .env file.
+python-dotenv>=1.0.0,<2.0.0
