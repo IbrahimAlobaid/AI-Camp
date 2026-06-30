@@ -2,7 +2,7 @@
 
 The Artificial Intelligence Camp at the University of Aleppo is a practical 6-session program designed to help students build a clear foundation in AI through simple explanations, Jupyter notebooks, datasets, and hands-on projects.
 
-> Note: This repository currently includes the materials for the first 5 sessions. Session 6 will be added later.
+> Note: This repository includes the materials for all 6 sessions.
 
 ## Sessions
 
@@ -13,7 +13,7 @@ The Artificial Intelligence Camp at the University of Aleppo is a practical 6-se
 | 3 | `3-CV/` | Computer Vision basics, image preprocessing, filters and edge detection, feature extraction methods such as SIFT, ORB, and HOG, CNNs, and introductory YOLO and RCNN concepts. |
 | 4 | `4-NLP/` | Natural Language Processing from classical text preprocessing and tokenization to embeddings, sequence models, attention, Transformers, BERT, GPT, and a BERT-based Named Entity Recognition exercise. |
 | 5 | `5-LLM/` | Practical LLM systems covering APIs, prompt engineering, embeddings, vector databases, RAG, fine-tuning, LoRA/QLoRA, agents, memory, evaluation, safety, and application labs. |
-| 6 | To be added later | In preparation. |
+| 6 | `6-voice_agent/` | Voice-agent systems using Pipecat, WebRTC, STT, LLM, TTS, context, memory, production practices, and full-stack projects such as English Voice Coach and VisionTutor AI. |
 
 ## Repository Structure
 
@@ -24,6 +24,7 @@ AI-Camp/
 |-- 3-CV/      # Session 3: Computer Vision
 |-- 4-NLP/     # Session 4: Natural Language Processing
 |-- 5-LLM/     # Session 5: Large Language Models
+|-- 6-voice_agent/ # Session 6: Voice Agents
 `-- README.md
 ```
 
