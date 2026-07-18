@@ -184,6 +184,8 @@ This repository is part of a broader effort to make practical, high-quality AI e
 
 - Join the [AI Workshop community on Telegram](https://t.me/AIworkshop_ite)
 - Follow [Ibrahim Alobaid on GitHub](https://github.com/IbrahimAlobaid)
+- Follow [Mohammad ghazal Kassas on GitHub](https://github.com/MohammadKassas143)
+- Follow [Zayn-Mahrouseh on GitHub](https://github.com/Zayn-Mahrouseh)
 - Connect on [LinkedIn](https://www.linkedin.com/in/ibrahimalobaid44/)
 - Explore notebooks on [Kaggle](https://www.kaggle.com/ibrahimalobaid)
 
