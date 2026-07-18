@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">AI Camp at the University of Aleppo</title>
+  <desc id="desc">A professional dark banner presenting a six-session hands-on artificial intelligence learning journey.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b12"/><stop offset="0.52" stop-color="#0b2532"/><stop offset="1" stop-color="#06454b"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="55%"><stop offset="0" stop-color="#2dd4bf" stop-opacity="0.22"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#67e8f9" stroke-opacity="0.055"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <ellipse cx="600" cy="164" rx="410" ry="210" fill="url(#glow)"/>
+  <g transform="translate(70 68)" fill="none" stroke="url(#accent)" stroke-width="2">
+    <circle cx="54" cy="54" r="53" fill="#0a1720"/>
+    <path d="M22 64 C32 28 42 77 54 43 C67 8 76 84 89 44" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="22" cy="64" r="5" fill="#22d3ee" stroke="none"/><circle cx="54" cy="43" r="5" fill="#2dd4bf" stroke="none"/><circle cx="89" cy="44" r="5" fill="#22d3ee" stroke="none"/>
+    <path d="M19 92H92" stroke-opacity="0.35"/>
+  </g>
+  <g text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="640" y="103" fill="#7dd3fc" font-size="16" font-weight="700" letter-spacing="4">UNIVERSITY OF ALEPPO</text>
+    <text x="640" y="174" fill="#f0f6fc" font-size="70" font-weight="800" letter-spacing="2">AI CAMP</text>
+    <rect x="405" y="195" width="470" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="640" y="236" fill="#c9d1d9" font-size="21" letter-spacing="1">FROM FIRST MODEL TO REAL-TIME MULTIMODAL AI</text>
+  </g>
+  <g transform="translate(312 284)" font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g><rect width="160" height="42" rx="21" fill="#102a35" stroke="#28515a"/><text x="80" y="27" fill="#dbeafe" font-size="14" font-weight="600">6 SESSIONS</text></g>
+    <g transform="translate(181)"><rect width="190" height="42" rx="21" fill="#102a35" stroke="#28515a"/><text x="95" y="27" fill="#dbeafe" font-size="14" font-weight="600">HANDS-ON LABS</text></g>
+    <g transform="translate(392)"><rect width="190" height="42" rx="21" fill="#102a35" stroke="#28515a"/><text x="95" y="27" fill="#dbeafe" font-size="14" font-weight="600">REAL PROJECTS</text></g>
+  </g>
+  <g fill="none" stroke="#67e8f9" stroke-opacity="0.28" stroke-width="1.5"><path d="M987 74L1043 44L1100 77L1145 53"/><path d="M973 245L1031 213L1087 247L1143 213"/></g>
+  <g fill="#2dd4bf"><circle cx="987" cy="74" r="4"/><circle cx="1043" cy="44" r="4"/><circle cx="1100" cy="77" r="4"/><circle cx="1145" cy="53" r="4"/><circle cx="973" cy="245" r="4"/><circle cx="1031" cy="213" r="4"/><circle cx="1087" cy="247" r="4"/><circle cx="1143" cy="213" r="4"/></g>
+  <rect x="1" y="1" width="1198" height="358" rx="19" fill="none" stroke="#67e8f9" stroke-opacity="0.16" stroke-width="2"/>
+</svg>
